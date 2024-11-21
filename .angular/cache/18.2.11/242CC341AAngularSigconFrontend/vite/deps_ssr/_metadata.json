@@ -1,79 +1,61 @@
 {
-  "hash": "faf49a89",
-  "configHash": "209ded9f",
+  "hash": "72ed3a97",
+  "configHash": "49dcc5d1",
   "lockfileHash": "98480b32",
-  "browserHash": "cc0aa8e1",
+  "browserHash": "c02ebf9d",
   "optimized": {
-    "@angular/common": {
-      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
-      "file": "@angular_common.js",
-      "fileHash": "39efe558",
-      "needsInterop": false
-    },
     "@angular/common/http": {
       "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "3675466f",
+      "fileHash": "83c1eeed",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "36b3476c",
+      "fileHash": "b0c1e75a",
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
-      "fileHash": "51f6add0",
+      "fileHash": "420e8f87",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "01e55caa",
+      "fileHash": "eca8d06f",
       "needsInterop": false
     },
     "@angular/platform-server": {
       "src": "../../../../../../node_modules/@angular/platform-server/fesm2022/platform-server.mjs",
       "file": "@angular_platform-server.js",
-      "fileHash": "5a5b2c4b",
+      "fileHash": "ead97e03",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "c5993682",
-      "needsInterop": false
-    },
-    "ngx-pagination": {
-      "src": "../../../../../../node_modules/ngx-pagination/fesm2015/ngx-pagination.mjs",
-      "file": "ngx-pagination.js",
-      "fileHash": "1629a04b",
-      "needsInterop": false
-    },
-    "sweetalert2": {
-      "src": "../../../../../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
-      "file": "sweetalert2.js",
-      "fileHash": "b903e635",
+      "fileHash": "bfdcd155",
       "needsInterop": false
     }
   },
   "chunks": {
-    "xhr2-ISERFGGE": {
-      "file": "xhr2-ISERFGGE.js"
+    "chunk-U6I2TXMR": {
+      "file": "chunk-U6I2TXMR.js"
     },
-    "chunk-JDSITVEW": {
-      "file": "chunk-JDSITVEW.js"
+    "chunk-4RVWXVUK": {
+      "file": "chunk-4RVWXVUK.js"
     },
-    "chunk-OVRRIAOM": {
-      "file": "chunk-OVRRIAOM.js"
-    },
-    "chunk-SSRY6LPA": {
-      "file": "chunk-SSRY6LPA.js"
+    "chunk-RYROTWLH": {
+      "file": "chunk-RYROTWLH.js"
     },
     "chunk-CEPGADB3": {
       "file": "chunk-CEPGADB3.js"
+    },
+    "xhr2-ISERFGGE": {
+      "file": "xhr2-ISERFGGE.js"
     },
     "chunk-NQ4HTGF6": {
       "file": "chunk-NQ4HTGF6.js"
